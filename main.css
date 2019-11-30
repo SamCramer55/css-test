@@ -1,12 +1,12 @@
 body {
 background-image: url("680932-download-free-fantasy-wallpaper-backgrounds-1920x1200.jpg");
-  background-size: auto;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:top;
+
+
 }
-.bgSizeContain {
-  width: 500px;
-  height: 500px;
-}
-  
+
 h1 {
 color: white;
 font-family: verdana;
@@ -20,4 +20,8 @@ font-size: 20px;
 }
 a {
   color: white;
+}
+
+.heading {
+  margin-left:100px;
 }
