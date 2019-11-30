@@ -1,6 +1,7 @@
 body {
 background-image: url("680932-download-free-fantasy-wallpaper-backgrounds-1920x1200.jpg");
-  background-size: 100vh;
+  background-size: cover;
+  height: 100vh;
 }
 
 h1 {
