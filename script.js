@@ -1,3 +1,3 @@
 function learningjavascript() {
-alert(":)")
+alert("Heyy :)")
 }
